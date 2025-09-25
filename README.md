@@ -6,7 +6,7 @@
 - 🏠 frappe-it.hr | 🏖️ yazo.ai | 📬 olovka.com.hr
 
 ### 🛠️ Languages and Tools :
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" title="JavaScript" width="26" height="26" />
 
 <!--
 **francotrax/francotrax** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
