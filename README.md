@@ -5,7 +5,7 @@
 - 📝 B2B Contractor
 - 🏠 frappe-it.hr | 🚀 yazo.ai
 
-### 🛠️ Languages and Tools:
+#### 🛠️ Languages and Tools:
 <div dir="auto">
 <a target="_blank" rel="noopener noreferrer" href="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg"><img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python" alt="Python" width="26" height="26" style="max-width: 100%; height: auto; max-height: 26px;"></a>
 <a target="_blank" rel="noopener noreferrer" href="https://github.com/devicons/devicon/blob/master/icons/django/django-plain.svg"><img src="https://github.com/devicons/devicon/blob/master/icons/django/django-plain.svg" title="Django" alt="Django" width="26" height="26" style="max-width: 100%; height: auto; max-height: 26px;"></a>
