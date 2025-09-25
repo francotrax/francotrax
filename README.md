@@ -3,7 +3,7 @@
 ### 👂 About Me :
 - 🧑‍💻 Full Stack Developer
 - 📝 B2B Contractor
-- 🏠 frappe-it.hr | 🚀 yazo.ai | 🏢 olovka.com.hr
+- 🏠 frappe-it.hr | 🚀 yazo.ai
 
 ### 🛠️ Languages and Tools:
 <div dir="auto">
