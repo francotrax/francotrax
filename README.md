@@ -1,4 +1,12 @@
-## Hi there 👋
+## Nice to meet you! 👋
+
+### 👂 About Me :
+- 🧑‍💻 Full Stack Developer
+- 📝 B2B Contractor
+- 🏠 frappe-it.hr | 🏖️ yazo.ai | 📬 olovka.com.hr
+
+### 🛠️ Languages and Tools :
+[JavaScript](https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-plain.svg)
 
 <!--
 **francotrax/francotrax** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
